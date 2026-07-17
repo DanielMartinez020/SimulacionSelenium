@@ -1,0 +1,11 @@
+cr\ac\ufidelitas\simulacion\tests\CP06_Login.class
+cr\ac\ufidelitas\simulacion\pages\LoginPage.class
+cr\ac\ufidelitas\simulacion\tests\CP05_EliminarProducto.class
+cr\ac\ufidelitas\simulacion\pages\HomePage.class
+cr\ac\ufidelitas\simulacion\pages\ProductPage.class
+cr\ac\ufidelitas\simulacion\tests\CP01_BusquedaProducto.class
+cr\ac\ufidelitas\simulacion\SimulacionSelenium.class
+cr\ac\ufidelitas\simulacion\tests\CP04_VerCarrito.class
+cr\ac\ufidelitas\simulacion\tests\CP03_AgregarCarrito.class
+cr\ac\ufidelitas\simulacion\utils\DriverFactory.class
+cr\ac\ufidelitas\simulacion\tests\CP02_DetalleProducto.class
